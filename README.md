@@ -1,5 +1,5 @@
 # 💫 About Me:
-Coffee to code converter ;)
+Coffee to code converter :)
 
 
 ## 🌐 Socials:
