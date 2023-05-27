@@ -12,8 +12,6 @@ Coffee to code converter :)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajad-mhr&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-mhr&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sajad-mhr&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sajad-mhr&icon=7&color=4)](https://visitcount.itsvg.in)
