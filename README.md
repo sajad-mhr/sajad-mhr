@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello :)
-I am Sajjad Mehri.
+I am Sajad Mehri.
 I am a self-taught programmer.
 I am 20 years old.
 I am an associate degree student of Shahid Mohammad Montazeri Technical and Vocational College of Mashhad.
