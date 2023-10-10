@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 Hello :)
 I am Sajjad Mehri.
 I am a self-taught programmer.
