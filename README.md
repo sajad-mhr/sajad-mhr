@@ -20,8 +20,6 @@ Hello :) <br>I am Sajad Mehri.<br>I am a self-taught programmer.<br>I am 20 year
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sajad-mhr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajad-mhr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajad-mhr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
