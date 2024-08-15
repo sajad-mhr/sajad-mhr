@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi :) <br>I am Sajad Mehri.<br>I am a self-taught programmer.<br>I am 21 years old.<br>I am an associate degree student of Shahid Mohammad Montazeri Technical and Vocational College of Mashhad.<br>I am always learning new things about technology, especially programming. <br>I am currently working in the field of front end.
+Hi :) <br>I am Sajad Mehri.<br>I am a self-taught programmer.<br>I am 21 years old.<br>I am an associate degree student of Shahid Mohammad Montazeri Technical and Vocational College of Mashhad.<br>I am always learning new things about technology, especially programming. <br>I am currently working in the field of front end and back end.
 
 
 ## 🌐 Socials:
