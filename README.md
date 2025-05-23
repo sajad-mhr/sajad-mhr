@@ -1,5 +1,30 @@
 # 💫 About Me:
-Hi :) <br>I am Sajad Mehri.<br>I am a self-taught programmer.<br>I am 21 years old.<br>I am an associate degree student of Shahid Mohammad Montazeri Technical and Vocational College of Mashhad.<br>I am always learning new things about technology, especially programming. <br>I am currently working in the field of front end and back end.
+<div id="about-me">
+  <h2>💫 About Me:</h2>
+  <p>
+    Hi :)<br>
+    I am Sajad Mehri.<br>
+    I am a self-taught programmer.<br>
+    I am <span id="age"></span> years old.<br>
+    I am an associate degree student of Shahid Mohammad Montazeri Technical and Vocational College of Mashhad.<br>
+    I am always learning new things about technology, especially programming.<br>
+    I am currently working in the field of front end and back end.
+  </p>
+</div>
+
+<script>
+  const birthDate = new Date('2003-10-19');
+  const today = new Date();
+  const age = today.getFullYear() - birthDate.getFullYear();
+  const monthDiff = today.getMonth() - birthDate.getMonth();
+  const dayDiff = today.getDate() - birthDate.getDate();
+  
+  if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
+    document.getElementById('age').textContent = age - 1;
+  } else {
+    document.getElementById('age').textContent = age;
+  }
+</script>
 
 
 ## 🌐 Socials:
